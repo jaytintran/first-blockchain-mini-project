@@ -12,9 +12,9 @@ MyToken deployed:  0x3edb29Ad6E26B247a04916eAbF556918445C0700
 2. Test: npx hardhat test
 3. Deploy: npx hardhat run --network goerli scripts/deploy.js
 
-Etherscan Georli: [0x3edb29Ad6E26B247a04916eAbF556918445C0700](https://goerli.etherscan.io/address/0x3edb29Ad6E26B247a04916eAbF556918445C0700)
-Account 2: 0x8C70A7Bb688Db57e13CE8Fb107fF90aa3BE85621
-Accounnt 1: 0x3c8a5612c357c5aDEC48e21feF53674B4Ee8Ad99
+- Etherscan Georli: [0x3edb29Ad6E26B247a04916eAbF556918445C0700](https://goerli.etherscan.io/address/0x3edb29Ad6E26B247a04916eAbF556918445C0700)
+- Account 2: 0x8C70A7Bb688Db57e13CE8Fb107fF90aa3BE85621
+- Accounnt 1: 0x3c8a5612c357c5aDEC48e21feF53674B4Ee8Ad99
 
 
 ---
